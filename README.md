@@ -39,31 +39,36 @@ Let's connect!
 ✦ **Optum (UnitedHealthcare)** | Senior Software Engineer 
 
 ↳ (Sep 2021 - Aug 2023)
-> - Developed and delivered key components and features for the UnitedHealthcare claims experience, a platform that enables members to manage and pay for their claims across web and mobile applications
-> - Utilized a diverse set of tools and technologies including React, TypeScript, HTML5, CSS3, Jest, GitHub, Figma, and React Native to build a UI that managed state and integrated data fetched and cached from a middleware API using Redux and React Hooks
-> - Mentored junior engineers, imparting best practices, sharing business and technical knowledge, and fostering a collaborative team environment to drive project success
-> - Actively participated in the on-call and release certification process, managed weekly releases, and triaged production issues, ensuring timely updates and feature rollouts to end-users
+> → Contributed to and delivered key, maintainable, well-tested, and accessible code, components, and features for the UnitedHealthcare claims experience, a platform that enabled members to manage and pay for their claims across web and mobile applications
+>
+> → Utilized a diverse set of tools including React, TypeScript, HTML5, CSS3, and React Native to build UIs that managed state and integrated data fetched and cached from a Rest API using Redux and React Hooks - ensuring quality with unit, integration, and end-to-end testing via Jest and WebdriverIO and with the use of code reviews and version control (Git) while also ensuring fidelity to Figma designs and prototypes
+>
+> → Fostered a collaborative team environment by working closely with a variety of internal partners - including product managers and designers - and by mentoring associate engineers, imparting best practices and sharing business and technical knowledge
+>
+> → Actively participated in the on-call and release certification process, managed weekly releases, and triaged production issues, ensuring timely updates and feature rollouts to end-users
 
 ✦ **Preemptive Love** | Front-End Developer 
 
 ↳ (Jan 2019 - June 2021)
-> - Advocated for the integration of React into the organization’s tech stack, enhancing web development capabilities
-> - Engineered and launched a mission-critical donation processing form that used Stripe’s API and JavaScript SDK for secure payment processing, streamlining the donation experience for supporters
-> - Developed various microsites, catering to special events and capital campaigns, ensuring targeted outreach and engagement
-> - Managed application and UI state using the React Context API, ensuring a responsive and intuitive user experience
-> - Collaborated closely with back-end developers to architect and implement internal microservices APIs, optimizing data flow and system integration
+> → Advocated for the integration of React into the organization’s tech stack, enhancing web development capabilities and ensuring timely releases for end-users
+>
+> → Engineered a mission-critical donation processing form component built with React and Stripe’s JavaScript SDK and API for secure payment processing, streamlining the donation experience for contributors
+>
+> → Developed various microsites with the React framework Gatsby, catering to special events and capital campaigns - ensuring targeted outreach and engagement
+>
+> → Managed application and UI state using the React Context API, ensuring an accessible, performant,and responsive user experience
+>
+> → Collaborated closely with back-end developers to architect and implement internal microservices APIs, optimizing data flow and system integration
 
 ✦ **Life Teen** | Photographer & Front-End Developer
 
 ↳  (Jan 2017 - Oct 2018)
-> - Engineered and deployed small to medium-sized marketing sites and pages, leveraging both WordPress and React to optimize user engagement and outreach
-> - Stepped up as an interim lead developer, guiding contractors and ensuring project continuity during a pivotal transition period for the organization
+> → Engineered and deployed small to medium-sized marketing sites and pages, leveraging both WordPress and React to optimize user engagement and outreach
+>
+> → Stepped up as an interim lead developer, guiding contractors and ensuring project continuity during a pivotal transition period for the organization
 
 ## Personal Projects & Experimentation 🧪
-- **Next.js & Vercel**: Explored the capabilities of server-side rendering and deploying full-stack applications on Vercel
-- **Headless CMS**: Experimented with headless content management systems
-- **React Hooks**: Used hooks in functional components to manage state and side effects more efficiently
-- **Tailwind CSS**: Designed responsive and modern UIs using Tailwind CSS
-- **Markdown**: Utilized Markdown for content creation
-- **GatsbyJS & GraphQL**: Implemented GraphQL for efficient and flexible data querying
-- **Continuous Learning**: Regularly experimented with tech and tools at the forefront of web development trends
+> → **Full-stack development**: Currently exploring the capabilities of deploying full-stack applications with Node.js and
+React frameworks like Next.js and Remix. I’m particularly interested in things like server-side components and server-side rendering, data streaming, and all of the cool things that will ship less JavaScript to the client and improve the user experience
+>
+> → **Authentication & Authorization**: Currently a recipient of the “What’s Next by Okta Learning” grant, which is enabling me to deepen my understanding of user authentication and authorization for web applications. Building on my experience with Supabase Auth and next-auth, this grant is a valuable opportunity for me to further develop my skills in using tools like Auth0, making the web more secure
