@@ -1,6 +1,6 @@
-# Software Engineer, Front-End 🌐
+# Software Engineer, Front-End (Web) 🌐
 
-> Creative developer with over six years of experience building for the web. Dedicated to making the internet a more beautiful and accessible space. Seeking to work with a team of good people making interesting things (with React + TypeScript) ⚛️
+> Curious and creative developer with over six years of experience building for the web and two years building for mobile. Dedicated to making the internet a more beautiful and accessible space. Seeking to work with a team of good people making interesting things (with React + TypeScript) ⚛️.
 
 **These are the tools that I use to build cool things**
 
