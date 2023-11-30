@@ -1,4 +1,4 @@
-# Software Engineer, Front-End (Web) 🌐
+# Software Engineer, Web 🌐
 
 > Curious and creative developer with seven years of experience building for the web and two years building for mobile. Dedicated to making the internet a more beautiful and accessible space. Seeking to work with a team of good people making interesting things.
 
