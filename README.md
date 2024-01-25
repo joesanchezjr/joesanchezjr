@@ -36,7 +36,7 @@ Let's connect!
 
 ## Work Experience 👨‍💻
 
-✦ **Optum (UnitedHealthcare)** | Senior Software Engineer 
+### ✦ **Optum (UnitedHealthcare)** | Senior Software Engineer 
 
 ↳ (Sep 2021 - Aug 2023)
 > → Contributed to and delivered key, maintainable, well-tested, and accessible code, components, and features for the UnitedHealthcare claims experience, a platform that enabled members to manage and pay for their claims across web and mobile applications
@@ -47,12 +47,12 @@ Let's connect!
 >
 > → Actively participated in the on-call and release certification process, managed weekly releases, and triaged production issues, ensuring timely updates and feature rollouts to end-users
 
-✦ **Preemptive Love** | Front-End Developer 
+### ✦ **Preemptive Love** | Front-End Developer 
 
 ↳ (Jan 2019 - June 2021)
 > → Advocated for the integration of React into the organization’s tech stack, enhancing web development capabilities and ensuring timely releases for end-users
 >
-> → Engineered a mission-critical donation processing form component built with React and Stripe’s JavaScript SDK and API for secure payment processing, streamlining the donation experience for contributors
+> → Engineered a mission-critical donation processing component built with React and Stripe’s JavaScript SDK and API for secure payment processing, streamlining the donation experience for donors
 >
 > → Developed various microsites with the React framework Gatsby, catering to special events and capital campaigns - ensuring targeted outreach and engagement
 >
@@ -60,15 +60,14 @@ Let's connect!
 >
 > → Collaborated closely with back-end developers to architect and implement internal microservices APIs, optimizing data flow and system integration
 
-✦ **Life Teen** | Photographer & Front-End Developer
+### ✦ **Life Teen** | Photographer & Front-End Developer
 
 ↳  (Jan 2017 - Oct 2018)
-> → Engineered and deployed small to medium-sized marketing sites and pages, leveraging both WordPress and React to optimize user engagement and outreach
+> → Engineered and deployed small to medium-sized marketing sites and pages, leveraging both WordPress and React to optimize user engagement
 >
 > → Stepped up as an interim lead developer, guiding contractors and ensuring project continuity during a pivotal transition period for the organization
 
 ## Personal Projects & Experimentation 🧪
-> → **Full-stack development**: Currently exploring the capabilities of deploying full-stack applications with Node.js and
-React frameworks like Next.js and Remix. I’m particularly interested in things like server-side components and server-side rendering, data streaming, and all of the cool things that will ship less JavaScript to the client and improve the user experience
+> → **Full-stack development**:  Exploring the capabilities of full-stack applications with Node.js and React frameworks like Next.js and Remix. I’m particularly interested in things like server-side components and server-side rendering, data streaming, and all of the cool things that will ship less JavaScript to the client and improve the user experience.
 >
-> → **Authentication & Authorization**: Currently a recipient of the “What’s Next by Okta Learning” grant, which is enabling me to deepen my understanding of user authentication and authorization for web applications. Building on my experience with Supabase Auth and next-auth, this grant is a valuable opportunity for me to further develop my skills in using tools like Auth0, making the web more secure
+> → **Authentication & Authorization**: Expanding my understanding of user authentication and authorization for web applications. Developing my skills in services like Supabase Auth, Auth0, Clerk, and next-auth to help make the web more secure.
