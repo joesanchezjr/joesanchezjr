@@ -1,6 +1,6 @@
-# Software Engineer, Web 🌐
+# Software Engineer, Frontend 🌐
 
-> Curious and creative developer with seven years of experience building for the web and two years building for mobile. Dedicated to making the internet a more beautiful and accessible space. Seeking to work with a team of good people making interesting things.
+> Curious and creative developer with seven years of experience in crafting experiences for the web and two years for mobile. Dedicated to making the internet a more beautiful and accessible space. Seeking to work with a team of good people making interesting things. Front-end proficiency, with full-stack capabilities.
 
 **These are the tools that I use to build cool things**
 
@@ -39,35 +39,37 @@ Let's connect!
 ### ✦ **Optum (UnitedHealthcare)** | Senior Software Engineer 
 
 ↳ (Sep 2021 - Aug 2023)
-> → Contributed to and delivered key, maintainable, well-tested, and accessible code, components, and features for the UnitedHealthcare claims experience, a platform that enabled members to manage and pay for their claims across web and mobile applications
+> → Developed and delivered key components and features for a high-traffic, user-facing platform across responsive web and mobile applications with millions of users - emphasized maintainable, well-tested, and accessible code through careful planning (specification, story writing, and sizing).
+> 
+> → Led and fostered a collaborative team environment through active and close engagement with a variety of partners and cross-functional collaborators, including product managers and designers. Mentored associate engineers by imparting best practices and sharing business, product, and technical knowledge.
+> 
+> → Actively participated in the on-call and release certification process through managing weekly releases and triaging production issues - ensuring timely updates and feature rollouts to end-users. Responsible for end-to-end testing, QA, and multi-environment deployments.
 >
-> → Utilized a diverse set of tools including React, TypeScript, HTML5, CSS3, and React Native to build UIs that managed state and integrated data fetched and cached from a Rest API using Redux and React Hooks - ensuring quality with unit, integration, and end-to-end testing via Jest and WebdriverIO and with the use of code reviews and version control (Git) while also ensuring fidelity to Figma designs and prototypes
->
-> → Fostered a collaborative team environment by working closely with a variety of internal partners - including product managers and designers - and by mentoring associate engineers, imparting best practices and sharing business and technical knowledge
->
-> → Actively participated in the on-call and release certification process, managed weekly releases, and triaged production issues, ensuring timely updates and feature rollouts to end-users
+> Built with: React, TypeScript, HTML, CSS, React Native, Webpack, Redux, styled-components, REST APIs, Jest, WDIO, Figma, Jenkins, Datadog, Splunk, Jira
 
 ### ✦ **Preemptive Love** | Front-End Developer 
 
 ↳ (Jan 2019 - June 2021)
-> → Advocated for the integration of React into the organization’s tech stack, enhancing web development capabilities and ensuring timely releases for end-users
+> → Engineered a mission-critical donation processing component responsible for processing over 50% of multi-million dollar revenue – built with React and third-party JS SDKs for a unified, secure, and streamlined payment processing experience for users.
+> 
+> → Advocated for the integration of React into the organization’s tech stack, drove development of an internal UI library used in key components and projects across web frameworks, and managed a series of micro-sites tailored for special events and capital campaigns
 >
-> → Engineered a mission-critical donation processing component built with React and Stripe’s JavaScript SDK and API for secure payment processing, streamlining the donation experience for donors
+> → Demonstrated initiative and a collaborative spirit – proactively addressed challenges and provided solutions within a grassroots organization - collaborated with back-end developers to architect and implement internal micro-services and APIs
 >
-> → Developed various microsites with the React framework Gatsby, catering to special events and capital campaigns - ensuring targeted outreach and engagement
->
-> → Managed application and UI state using the React Context API, ensuring an accessible, performant,and responsive user experience
->
-> → Collaborated closely with back-end developers to architect and implement internal microservices APIs, optimizing data flow and system integration
+> Built with: React, JavaScript, HTML, CSS, CSS Modules, styled-components, React Context, third-party SDKs (Stripe, PayPal, and Braintree), Next.js, WordPress (PHP), Gatsby.js
 
 ### ✦ **Life Teen** | Photographer & Front-End Developer
 
 ↳  (Jan 2017 - Oct 2018)
-> → Engineered and deployed small to medium-sized marketing sites and pages, leveraging both WordPress and React to optimize user engagement
->
-> → Stepped up as an interim lead developer, guiding contractors and ensuring project continuity during a pivotal transition period for the organization
+> → Engineered and deployed marketing and event sites and pages, delivered multi-lingual blog content support, and created interactive components
+> 
+> → Stepped up as an interim lead developer by guiding contractors and ensuring project continuity during a transition period for the organization
+> 
+> Built with: HTML, CSS, JavaScript, WordPress, React
 
 ## Personal Projects & Experimentation 🧪
-> → **Full-stack development**:  Exploring the capabilities of full-stack applications with Node.js and React frameworks like Next.js and Remix. I’m particularly interested in things like server-side components and server-side rendering, data streaming, and all of the cool things that will ship less JavaScript to the client and improve the user experience.
+> → Engineering full-stack applications with Node.js and React frameworks like Next.js and Remix. Interacting with data stored in Postgres/MySQL databases. Building with server-side components and server-side rendering (SSR), data streaming, serverless and edge environments, and all of the cool things that will ship less JavaScript to the client and improve the user experience.
 >
-> → **Authentication & Authorization**: Expanding my understanding of user authentication and authorization for web applications. Developing my skills in services like Supabase Auth, Auth0, Clerk, and next-auth to help make the web more secure.
+> → Exploring best practices for user authentication and authorization for web applications. Developing my skills in services like Supabase Auth, Auth0, Clerk, and next-auth to help make the web more secure.
+>
+> → Working on both private greenfield and legacy projects across the stack with PHP and JavaScript.
