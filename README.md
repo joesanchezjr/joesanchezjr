@@ -1,6 +1,8 @@
 # Software Engineer, Frontend 🌐
 
-> Curious and creative developer with seven years of experience in crafting experiences for the web and two years for mobile. Dedicated to making the internet a more beautiful and accessible space. Seeking to work with a team of good people making interesting things. Front-end proficiency, with full-stack capabilities.
+> Curious and creative developer with over eight years of experience in crafting experiences for the web.
+>
+> Helping build a better internet. ☁️
 
 **These are the tools that I use to build cool things**
 
@@ -28,13 +30,17 @@
 ![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Gatsby.js](https://img.shields.io/badge/Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white)
 
 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joesanchezjr)
 
 ## Work Experience 👨‍💻
+
+### ✦ **Cloudflare** | Software Engineer
+
+↳ (Jan 2025 - Present)
+> → Building products to make websites faster through optimization and observation – web analytics, real user monitoring, core web vitals, prefetching, and more.
 
 ### ✦ **Optum (UnitedHealthcare)** | Senior Software Engineer 
 
