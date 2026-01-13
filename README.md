@@ -1,6 +1,6 @@
 # Software Engineer, Frontend 🌐
 
-> Curious and creative developer with over eight years of experience in crafting experiences for the web.
+> Curious and creative developer with over nine years of experience in crafting experiences for the web.
 >
 > Helping build a better internet. ☁️
 
