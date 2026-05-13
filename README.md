@@ -1,46 +1,64 @@
 # Software Engineer, Frontend 🌐
 
-> Curious and creative developer with over nine years of experience in crafting experiences for the web.
->
-> Helping build a better internet. ☁️
+> Curious and creative developer with over nine years of experience in building for the web — front-end proficiency, with full-stack capabilities. Dedicated to making the internet a more beautiful and accessible space through crafting performant and human-centered experiences with modern AI-assisted workflows. Seeking to join a team of good people building good things and build on the open web.
+
 
 **These are the tools that I use to build cool things**
 
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![React Context](https://img.shields.io/badge/React_Context-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![JSX](https://img.shields.io/badge/JSX-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Agile](https://img.shields.io/badge/Agile-0095D5?style=flat-square&logo=jira-software&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-FF6633?logo=cloudflare&logoColor=fff)
+![Astro](https://img.shields.io/badge/Astro-3d4ff5?logo=astro&logoColor=fff)
+![Remix](https://img.shields.io/badge/Remix-f44250?logo=remix&logoColor=fff)
+![React Router](https://img.shields.io/badge/React_Router-f44250?logo=react-router&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0081CB?logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![React Context](https://img.shields.io/badge/React_Context-0081CB?logo=react&logoColor=61DAFB)
+![JSX](https://img.shields.io/badge/JSX-0081CB?logo=react&logoColor=61DAFB)
+![Agile](https://img.shields.io/badge/Agile-0095D5?logo=jira-software&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![yarn](https://img.shields.io/badge/yarn-2C8EBB?logo=yarn&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-8DD6F9?logo=webpack&logoColor=black)
+![styled-components](https://img.shields.io/badge/styled_components-DB7093?logo=styled-components&logoColor=white)
 
 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joesanchezjr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joesanchezjr)
 
 ## Work Experience 👨‍💻
 
 ### ✦ **Cloudflare** | Software Engineer
 
-↳ (Jan 2025 - Present)
-> → Building products to make websites faster through optimization and observation – web analytics, real user monitoring, core web vitals, prefetching, and more.
+↳ (Jan 2025 - May 2026)
+
+Built and shipped across the stack for Observatory - a unified web performance monitoring platform, combining Real User Monitoring (RUM), Core Web Vitals, and synthetic testing  into a single, cohesive view. The work touched multiple layers in the stack, including the React/Typescript dashboard UI consuming GraphQL for analytics data and interfacing with a Node.js/Express backend backed by Postgres for test configuration and beacon management.
+
+> → Engineered the Observatory overview - surfacing recent analytics and synthetic monitoring data with actionable recommendations to improve performance.
+> 
+> → Expanded Observatory's synthetic testing capabilities by building the Network Tests scheduling and results UI, giving customers a new class of performance diagnostics alongside the existing Browser Tests experience.
+> 
+> → Shipped RUM Lite onboarding as a first feature at Cloudflare — building the UI that enables lightweight RUM with built-in EU compliance scoping, broadening performance monitoring access.
+> 
+> → Maintained and contributed to Telescope open source project for cross-browser web performance testing (see below).
+> 
+> → Contributed to a component library modernization effort for dashboard pages, migrating from a legacy CSS-in-JS system to a Tailwind CSS + Base UI architecture — improving developer experience and long-term UI consistency for the end user.
+> 
+> Built with: React, TypeScript, GraphQL, Tailwind CSS, Base UI, Node.js, Express, Hono, PostgreSQL, Cloudflare Workers, Wrangler, Vite, GitLab
+>
+> Read more: https://blog.cloudflare.com/introducing-observatory-and-smart-shield/
 
 ### ✦ **Optum (UnitedHealthcare)** | Senior Software Engineer 
 
